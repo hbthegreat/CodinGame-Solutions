@@ -10,16 +10,16 @@ _**Disclaimer**: These are actual solutions to some of the problems on CodinGame
 ## List of Challenges
 
 ### Easy Challenges
-1. Power of Thor: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/Easy/Power_of_Thor.cs)
-1. The Descent: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/Easy/The_Descent.cs)
-1. Skynet: the Chasm : Solved[C#](https://github.com/hbthegreat/CodinGame-Solutions/Easy/Skynet:_The_Chasm.cs)
-1. Temperatures: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/Easy/Temperatures.cs)
-1. Mars Lander - Level 1: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/Easy/Mars_Lander_Level_1.cs)
-1. ASCII Art: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/Easy/ASCII_Art.cs)
-1. Chuck Norris: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/Easy/Chuck_Norris.cs)
-1. MIME Type: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/Easy/MIME_Type.cs)
-1. Defibrillators: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/Easy/Defibrillators.cs)
-1. Horse-racing Duals: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/Easy/Horse-racing_Duals.cs)
+1. Power of Thor: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/blob/master/Easy/Power_of_Thor.cs)
+1. The Descent: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/blob/master/Easy/The_Descent.cs)
+1. Skynet: the Chasm : Solved[C#](https://github.com/hbthegreat/CodinGame-Solutions/blob/master/Easy/Skynet:_The_Chasm.cs)
+1. Temperatures: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/blob/master/Easy/Temperatures.cs)
+1. Mars Lander - Level 1: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/blob/master/Easy/Mars_Lander_Level_1.cs)
+1. ASCII Art: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/blob/master/Easy/ASCII_Art.cs)
+1. Chuck Norris: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/blob/master/Easy/Chuck_Norris.cs)
+1. MIME Type: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/blob/master/Easy/MIME_Type.cs)
+1. Defibrillators: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/blob/master/Easy/Defibrillators.cs)
+1. Horse-racing Duals: Solved [C#](https://github.com/hbthegreat/CodinGame-Solutions/blob/master/Easy/Horse-racing_Duals.cs)
 
 ### Medium Challenges
 1. Coming soon
